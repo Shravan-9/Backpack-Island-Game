@@ -11,7 +11,7 @@ import time
 
 #Initialize Variables
 Continue = False
-delay = 0.01
+delay = 0.00001
 
 # Initialize Lists
 validItems = ["Water","Knife","Matches","Shelter Materials","First Aid Kit","Food","Compass","Walkie Talkie","Map", "Money",]
